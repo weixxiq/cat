@@ -24,7 +24,7 @@ body {
   grid-template-rows: 1fr 1fr;
   gap: 10px;
   width: 600px;
-  height: 750px;
+  height: 600px;
   position: relative;
 }
 
